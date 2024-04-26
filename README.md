@@ -1,11 +1,13 @@
 ### Hi there, I'm Arthur!
 
-- 🏦 Computer Science Student in Enseeiht.
-- 📓 Currently learning docker and working on my homelab
-- 🌱 I’m currently learning Cloud and big data infrastructures
-- 👯 I’m looking to learn cybersecurity and system administration
+- 🎓 Computer Science Student in Enseeiht.
+- 📝 I’m currently learning Cloud and big data infrastructures
+- 🔎 I’m looking to learn cybersecurity and system administration
 - 📫 How to reach me: arthur.picard@etu.toulouse-inp.fr
 
+### Personal projects :
+- 📓 Currently learning docker and working on my homelab
+- 👨‍💻 Developing a tool to change icons under Macos
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/arthur-picard-2b60a8252/">
